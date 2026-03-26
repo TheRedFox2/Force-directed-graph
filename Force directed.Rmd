@@ -1,0 +1,84 @@
+---
+title: "Force directed"
+output: html_document
+date: "2026-03-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Librerías y archivos
+
+```{r}
+library(jsonlite)
+library(readr)
+
+datos_csv <- read_csv("one_piece_interactions_1-1085.csv")
+
+datos_json <- fromJSON("one_piece.json")
+
+
+```
+
+Una vez cargado, voy a crear la visualización porque ya tengo el json hecho
+
+Primero voy a quedarme con wano
+```{r} 
+
+Wano_json_links <-  datos_json$links[datos_json$links$arc == "Orange Town",]
+
+wano_json_nodes <- merge(datos_json$nodes, Wano_json_links, by.x = "id", by.y = "source", all.x = TRUE)
+wano_json_nodes <- na.omit(wano_json_nodes)
+wano_json_nodes <- wano_json_nodes[!duplicated(wano_json_nodes$id),]
+
+nodos <- wano_json_nodes$id
+```
+
+Voy a probar a crear aqui el grafo y no en gephi
+```{r}
+library(igraph)
+
+g <- graph_from_data_frame(Wano_json_links, directed = TRUE)
+plot(g, layout = layout_with_fr(g))
+```
+
+No mola,
+```{r}
+library(networkD3)
+
+write.csv(wano_json_nodes, "nodos.csv")
+
+forceNetwork(
+  Links = Wano_json_links,
+  Nodes = wano_json_nodes,
+  Source = "source",
+  Target = "target",
+  NodeID = "id",
+)
+```
+
+Ahora, lo paso a gexf
+
+```{r}
+library(rgexf)
+
+gexf_data <- edge.list(Wano_json_links[,c("source","target")])
+
+aristas_attr <- Wano_json_links[, "interaction", drop = FALSE]
+
+# 3. Exportamos incluyendo los atributos de las aristas
+gexf <- write.gexf(
+  nodes = gexf_data$nodes, 
+  edges = gexf_data$edges, 
+  edgesAtt = aristas_attr, # <--- ESTO PASA EL TIPO DE INTERACCIÓN
+  output = "one_piece.gexf"
+)
+
+```
+
+```{r}
+library(circlize)
+chord <- Wano_json_links[[]]
+chordDiagram(Wano_json_links)
+```

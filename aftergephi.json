@@ -1,0 +1,707 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "13",
+      "attributes": {
+        "label": "luffy",
+        "x": -20.704954,
+        "y": 15.8277235,
+        "size": 20.0,
+        "color": "#ea8615",
+        "Group": "Strawhat",
+        "degree": 0,
+        "rawSize": 20.0
+      }
+    },
+    {
+      "key": "16",
+      "attributes": {
+        "label": "nami",
+        "x": 38.38469,
+        "y": 19.270449,
+        "size": 12.727273,
+        "color": "#ea8615",
+        "Group": "Strawhat",
+        "degree": 0,
+        "rawSize": 14.75
+      }
+    },
+    {
+      "key": "4",
+      "attributes": {
+        "label": "buggy",
+        "x": 22.668049,
+        "y": -22.867197,
+        "size": 12.727273,
+        "color": "#5fc613",
+        "Group": "Buggy Pirates",
+        "degree": 0,
+        "rawSize": 14.0
+      }
+    },
+    {
+      "key": "20",
+      "attributes": {
+        "label": "shanks",
+        "x": -46.925964,
+        "y": -91.762886,
+        "size": 18.545456,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 11.75
+      }
+    },
+    {
+      "key": "23",
+      "attributes": {
+        "label": "zoro",
+        "x": 73.237976,
+        "y": 40.965958,
+        "size": 11.272728,
+        "color": "#ea8615",
+        "Group": "Strawhat",
+        "degree": 0,
+        "rawSize": 10.625
+      }
+    },
+    {
+      "key": "3",
+      "attributes": {
+        "label": "boodle",
+        "x": 74.87204,
+        "y": -8.180381,
+        "size": 8.363636,
+        "color": "#00caff",
+        "Group": "Orange Town Citizen",
+        "degree": 0,
+        "rawSize": 7.625
+      }
+    },
+    {
+      "key": "8",
+      "attributes": {
+        "label": "chouchou",
+        "x": -29.234331,
+        "y": 94.713486,
+        "size": 8.363636,
+        "color": "#00caff",
+        "Group": "Orange Town Citizen",
+        "degree": 0,
+        "rawSize": 7.25
+      }
+    },
+    {
+      "key": "15",
+      "attributes": {
+        "label": "mohji",
+        "x": 19.496117,
+        "y": 75.30442,
+        "size": 6.909091,
+        "color": "#5fc613",
+        "Group": "Buggy Pirates",
+        "degree": 0,
+        "rawSize": 6.125
+      }
+    },
+    {
+      "key": "18",
+      "attributes": {
+        "label": "richie",
+        "x": 30.577103,
+        "y": 124.09028,
+        "size": 8.363636,
+        "color": "#5fc613",
+        "Group": "Buggy Pirates",
+        "degree": 0,
+        "rawSize": 6.125
+      }
+    },
+    {
+      "key": "7",
+      "attributes": {
+        "label": "cabaji",
+        "x": 72.92208,
+        "y": 103.63221,
+        "size": 5.4545455,
+        "color": "#5fc613",
+        "Group": "Buggy Pirates",
+        "degree": 0,
+        "rawSize": 5.75
+      }
+    },
+    {
+      "key": "19",
+      "attributes": {
+        "label": "sea king",
+        "x": -104.86486,
+        "y": -48.853794,
+        "size": 5.4545455,
+        "color": "#2e9072",
+        "Group": "Sea King",
+        "degree": 0,
+        "rawSize": 5.75
+      }
+    },
+    {
+      "key": "9",
+      "attributes": {
+        "label": "citizens of orange town",
+        "x": -71.697914,
+        "y": 116.524666,
+        "size": 5.4545455,
+        "color": "#00caff",
+        "Group": "Orange Town Citizen",
+        "degree": 0,
+        "rawSize": 5.375
+      }
+    },
+    {
+      "key": "10",
+      "attributes": {
+        "label": "higuma",
+        "x": 27.264893,
+        "y": -113.49197,
+        "size": 5.4545455,
+        "color": "#5fc613",
+        "Group": "Buggy Pirates",
+        "degree": 0,
+        "rawSize": 5.375
+      }
+    },
+    {
+      "key": "17",
+      "attributes": {
+        "label": "patrolling guard",
+        "x": 104.43012,
+        "y": 16.85809,
+        "size": 4.0,
+        "color": "#00caff",
+        "Group": "Orange Town Citizen",
+        "degree": 0,
+        "rawSize": 5.375
+      }
+    },
+    {
+      "key": "1",
+      "attributes": {
+        "label": "beckman",
+        "x": -122.957954,
+        "y": -179.12476,
+        "size": 4.0,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    },
+    {
+      "key": "2",
+      "attributes": {
+        "label": "bonk punch",
+        "x": -5.727451,
+        "y": -188.87498,
+        "size": 4.0,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    },
+    {
+      "key": "6",
+      "attributes": {
+        "label": "building snake",
+        "x": -42.383278,
+        "y": -191.98773,
+        "size": 4.0,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    },
+    {
+      "key": "11",
+      "attributes": {
+        "label": "limejuice",
+        "x": -132.96912,
+        "y": -143.52353,
+        "size": 4.0,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    },
+    {
+      "key": "12",
+      "attributes": {
+        "label": "lucky roux",
+        "x": -150.90756,
+        "y": -111.274864,
+        "size": 4.0,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    },
+    {
+      "key": "14",
+      "attributes": {
+        "label": "makino",
+        "x": -77.450455,
+        "y": -203.54602,
+        "size": 4.0,
+        "color": "#ff5c81",
+        "Group": "Luffy\u0027s village",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    },
+    {
+      "key": "22",
+      "attributes": {
+        "label": "yasopp",
+        "x": -87.93056,
+        "y": -168.42258,
+        "size": 4.0,
+        "color": "#c686e9",
+        "Group": "Shank\u0027s Pirates",
+        "degree": 0,
+        "rawSize": 5.0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "13",
+      "target": "20",
+      "attributes": {
+        "label": "Emotional",
+        "color": "#e2c7f7",
+        "weight": 15.0,
+        "att1": "Emotional",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "2",
+      "source": "13",
+      "target": "4",
+      "attributes": {
+        "label": "Physical",
+        "color": "#ffbb7c",
+        "weight": 27.0,
+        "att1": "Physical",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "3",
+      "source": "13",
+      "target": "23",
+      "attributes": {
+        "label": "Cooperation",
+        "color": "#8bdef7",
+        "weight": 9.0,
+        "att1": "Cooperation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "4",
+      "source": "13",
+      "target": "10",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "5",
+      "source": "20",
+      "target": "10",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "7",
+      "source": "20",
+      "target": "19",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 6.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "8",
+      "source": "13",
+      "target": "19",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "11",
+      "source": "13",
+      "target": "16",
+      "attributes": {
+        "label": "Emotional",
+        "color": "#e2c7f7",
+        "weight": 30.0,
+        "att1": "Emotional",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "15",
+      "source": "20",
+      "target": "12",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "16",
+      "source": "20",
+      "target": "1",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "17",
+      "source": "20",
+      "target": "22",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "18",
+      "source": "20",
+      "target": "11",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "19",
+      "source": "20",
+      "target": "6",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "20",
+      "source": "20",
+      "target": "14",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "21",
+      "source": "20",
+      "target": "2",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "29",
+      "source": "4",
+      "target": "16",
+      "attributes": {
+        "label": "Physical",
+        "color": "#ffbb7c",
+        "weight": 18.0,
+        "att1": "Physical",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "36",
+      "source": "23",
+      "target": "16",
+      "attributes": {
+        "label": "Cooperation",
+        "color": "#8bdef7",
+        "weight": 9.0,
+        "att1": "Cooperation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "37",
+      "source": "23",
+      "target": "4",
+      "attributes": {
+        "label": "Indirect",
+        "color": "#dfd46a",
+        "weight": 9.0,
+        "att1": "Indirect",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "41",
+      "source": "13",
+      "target": "15",
+      "attributes": {
+        "label": "Physical",
+        "color": "#ffbb7c",
+        "weight": 6.0,
+        "att1": "Physical",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "42",
+      "source": "13",
+      "target": "18",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "43",
+      "source": "13",
+      "target": "3",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 9.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "44",
+      "source": "13",
+      "target": "8",
+      "attributes": {
+        "label": "Cooperation",
+        "color": "#8bdef7",
+        "weight": 12.0,
+        "att1": "Cooperation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "46",
+      "source": "23",
+      "target": "3",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 6.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "49",
+      "source": "16",
+      "target": "8",
+      "attributes": {
+        "label": "Indirect",
+        "color": "#dfd46a",
+        "weight": 3.0,
+        "att1": "Indirect",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "50",
+      "source": "15",
+      "target": "18",
+      "attributes": {
+        "label": "Cooperation",
+        "color": "#8bdef7",
+        "weight": 3.0,
+        "att1": "Cooperation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "52",
+      "source": "18",
+      "target": "8",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "54",
+      "source": "15",
+      "target": "4",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "56",
+      "source": "3",
+      "target": "4",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "59",
+      "source": "16",
+      "target": "3",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 6.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "60",
+      "source": "23",
+      "target": "7",
+      "attributes": {
+        "label": "Physical",
+        "color": "#ffbb7c",
+        "weight": 6.0,
+        "att1": "Physical",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "67",
+      "source": "7",
+      "target": "18",
+      "attributes": {
+        "label": "Indirect",
+        "color": "#dfd46a",
+        "weight": 3.0,
+        "att1": "Indirect",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "68",
+      "source": "16",
+      "target": "17",
+      "attributes": {
+        "label": "Other",
+        "color": "#74e3c7",
+        "weight": 6.0,
+        "att1": "Other",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "71",
+      "source": "4",
+      "target": "20",
+      "attributes": {
+        "label": "Emotional",
+        "color": "#e2c7f7",
+        "weight": 12.0,
+        "att1": "Emotional",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "83",
+      "source": "13",
+      "target": "9",
+      "attributes": {
+        "label": "Confrontation",
+        "color": "#ffafc0",
+        "weight": 3.0,
+        "att1": "Confrontation",
+        "rawWeight": 3
+      }
+    },
+    {
+      "key": "84",
+      "source": "8",
+      "target": "9",
+      "attributes": {
+        "label": "Communication",
+        "color": "#9fe390",
+        "weight": 3.0,
+        "att1": "Communication",
+        "rawWeight": 3
+      }
+    }
+  ]
+}

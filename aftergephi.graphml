@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="Group" attr.type="string" for="node" id="group"/>
+    <key attr.name="degree" attr.type="int" for="node" id="degree"/>
+    <key attr.name="rawSize" attr.type="double" for="node" id="rawsize"/>
+    <key attr.name="att1" attr.type="string" for="edge" id="att1"/>
+    <key attr.name="rawWeight" attr.type="int" for="edge" id="rawweight"/>
+    <graph edgedefault="undirected">
+        <node id="13">
+            <data key="label">luffy</data>
+            <data key="group">Strawhat</data>
+            <data key="degree">0</data>
+            <data key="rawsize">20.0</data>
+            <data key="size">20.0</data>
+            <data key="r">234</data>
+            <data key="g">134</data>
+            <data key="b">21</data>
+            <data key="x">-20.704954</data>
+            <data key="y">15.8277235</data>
+        </node>
+        <node id="16">
+            <data key="label">nami</data>
+            <data key="group">Strawhat</data>
+            <data key="degree">0</data>
+            <data key="rawsize">14.75</data>
+            <data key="size">12.727273</data>
+            <data key="r">234</data>
+            <data key="g">134</data>
+            <data key="b">21</data>
+            <data key="x">38.38469</data>
+            <data key="y">19.270449</data>
+        </node>
+        <node id="4">
+            <data key="label">buggy</data>
+            <data key="group">Buggy Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">14.0</data>
+            <data key="size">12.727273</data>
+            <data key="r">95</data>
+            <data key="g">198</data>
+            <data key="b">19</data>
+            <data key="x">22.668049</data>
+            <data key="y">-22.867197</data>
+        </node>
+        <node id="20">
+            <data key="label">shanks</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">11.75</data>
+            <data key="size">18.545456</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-46.925964</data>
+            <data key="y">-91.762886</data>
+        </node>
+        <node id="23">
+            <data key="label">zoro</data>
+            <data key="group">Strawhat</data>
+            <data key="degree">0</data>
+            <data key="rawsize">10.625</data>
+            <data key="size">11.272728</data>
+            <data key="r">234</data>
+            <data key="g">134</data>
+            <data key="b">21</data>
+            <data key="x">73.237976</data>
+            <data key="y">40.965958</data>
+        </node>
+        <node id="3">
+            <data key="label">boodle</data>
+            <data key="group">Orange Town Citizen</data>
+            <data key="degree">0</data>
+            <data key="rawsize">7.625</data>
+            <data key="size">8.363636</data>
+            <data key="r">0</data>
+            <data key="g">202</data>
+            <data key="b">255</data>
+            <data key="x">74.87204</data>
+            <data key="y">-8.180381</data>
+        </node>
+        <node id="8">
+            <data key="label">chouchou</data>
+            <data key="group">Orange Town Citizen</data>
+            <data key="degree">0</data>
+            <data key="rawsize">7.25</data>
+            <data key="size">8.363636</data>
+            <data key="r">0</data>
+            <data key="g">202</data>
+            <data key="b">255</data>
+            <data key="x">-29.234331</data>
+            <data key="y">94.713486</data>
+        </node>
+        <node id="15">
+            <data key="label">mohji</data>
+            <data key="group">Buggy Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">6.125</data>
+            <data key="size">6.909091</data>
+            <data key="r">95</data>
+            <data key="g">198</data>
+            <data key="b">19</data>
+            <data key="x">19.496117</data>
+            <data key="y">75.30442</data>
+        </node>
+        <node id="18">
+            <data key="label">richie</data>
+            <data key="group">Buggy Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">6.125</data>
+            <data key="size">8.363636</data>
+            <data key="r">95</data>
+            <data key="g">198</data>
+            <data key="b">19</data>
+            <data key="x">30.577103</data>
+            <data key="y">124.09028</data>
+        </node>
+        <node id="7">
+            <data key="label">cabaji</data>
+            <data key="group">Buggy Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.75</data>
+            <data key="size">5.4545455</data>
+            <data key="r">95</data>
+            <data key="g">198</data>
+            <data key="b">19</data>
+            <data key="x">72.92208</data>
+            <data key="y">103.63221</data>
+        </node>
+        <node id="19">
+            <data key="label">sea king</data>
+            <data key="group">Sea King</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.75</data>
+            <data key="size">5.4545455</data>
+            <data key="r">46</data>
+            <data key="g">144</data>
+            <data key="b">114</data>
+            <data key="x">-104.86486</data>
+            <data key="y">-48.853794</data>
+        </node>
+        <node id="9">
+            <data key="label">citizens of orange town</data>
+            <data key="group">Orange Town Citizen</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.375</data>
+            <data key="size">5.4545455</data>
+            <data key="r">0</data>
+            <data key="g">202</data>
+            <data key="b">255</data>
+            <data key="x">-71.697914</data>
+            <data key="y">116.524666</data>
+        </node>
+        <node id="10">
+            <data key="label">higuma</data>
+            <data key="group">Buggy Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.375</data>
+            <data key="size">5.4545455</data>
+            <data key="r">95</data>
+            <data key="g">198</data>
+            <data key="b">19</data>
+            <data key="x">27.264893</data>
+            <data key="y">-113.49197</data>
+        </node>
+        <node id="17">
+            <data key="label">patrolling guard</data>
+            <data key="group">Orange Town Citizen</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.375</data>
+            <data key="size">4.0</data>
+            <data key="r">0</data>
+            <data key="g">202</data>
+            <data key="b">255</data>
+            <data key="x">104.43012</data>
+            <data key="y">16.85809</data>
+        </node>
+        <node id="1">
+            <data key="label">beckman</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-122.957954</data>
+            <data key="y">-179.12476</data>
+        </node>
+        <node id="2">
+            <data key="label">bonk punch</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-5.727451</data>
+            <data key="y">-188.87498</data>
+        </node>
+        <node id="6">
+            <data key="label">building snake</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-42.383278</data>
+            <data key="y">-191.98773</data>
+        </node>
+        <node id="11">
+            <data key="label">limejuice</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-132.96912</data>
+            <data key="y">-143.52353</data>
+        </node>
+        <node id="12">
+            <data key="label">lucky roux</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-150.90756</data>
+            <data key="y">-111.274864</data>
+        </node>
+        <node id="14">
+            <data key="label">makino</data>
+            <data key="group">Luffy's village</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">255</data>
+            <data key="g">92</data>
+            <data key="b">129</data>
+            <data key="x">-77.450455</data>
+            <data key="y">-203.54602</data>
+        </node>
+        <node id="22">
+            <data key="label">yasopp</data>
+            <data key="group">Shank's Pirates</data>
+            <data key="degree">0</data>
+            <data key="rawsize">5.0</data>
+            <data key="size">4.0</data>
+            <data key="r">198</data>
+            <data key="g">134</data>
+            <data key="b">233</data>
+            <data key="x">-87.93056</data>
+            <data key="y">-168.42258</data>
+        </node>
+        <edge id="0" source="13" target="20">
+            <data key="edgelabel">Emotional</data>
+            <data key="weight">15.0</data>
+            <data key="att1">Emotional</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="2" source="13" target="4">
+            <data key="edgelabel">Physical</data>
+            <data key="weight">27.0</data>
+            <data key="att1">Physical</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="3" source="13" target="23">
+            <data key="edgelabel">Cooperation</data>
+            <data key="weight">9.0</data>
+            <data key="att1">Cooperation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="4" source="13" target="10">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="5" source="20" target="10">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="7" source="20" target="19">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">6.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="8" source="13" target="19">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="11" source="13" target="16">
+            <data key="edgelabel">Emotional</data>
+            <data key="weight">30.0</data>
+            <data key="att1">Emotional</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="15" source="20" target="12">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="16" source="20" target="1">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="17" source="20" target="22">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="18" source="20" target="11">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="19" source="20" target="6">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="20" source="20" target="14">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="21" source="20" target="2">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="29" source="4" target="16">
+            <data key="edgelabel">Physical</data>
+            <data key="weight">18.0</data>
+            <data key="att1">Physical</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="36" source="23" target="16">
+            <data key="edgelabel">Cooperation</data>
+            <data key="weight">9.0</data>
+            <data key="att1">Cooperation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="37" source="23" target="4">
+            <data key="edgelabel">Indirect</data>
+            <data key="weight">9.0</data>
+            <data key="att1">Indirect</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="41" source="13" target="15">
+            <data key="edgelabel">Physical</data>
+            <data key="weight">6.0</data>
+            <data key="att1">Physical</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="42" source="13" target="18">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="43" source="13" target="3">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">9.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="44" source="13" target="8">
+            <data key="edgelabel">Cooperation</data>
+            <data key="weight">12.0</data>
+            <data key="att1">Cooperation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="46" source="23" target="3">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">6.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="49" source="16" target="8">
+            <data key="edgelabel">Indirect</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Indirect</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="50" source="15" target="18">
+            <data key="edgelabel">Cooperation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Cooperation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="52" source="18" target="8">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="54" source="15" target="4">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="56" source="3" target="4">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="59" source="16" target="3">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">6.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="60" source="23" target="7">
+            <data key="edgelabel">Physical</data>
+            <data key="weight">6.0</data>
+            <data key="att1">Physical</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="67" source="7" target="18">
+            <data key="edgelabel">Indirect</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Indirect</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="68" source="16" target="17">
+            <data key="edgelabel">Other</data>
+            <data key="weight">6.0</data>
+            <data key="att1">Other</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="71" source="4" target="20">
+            <data key="edgelabel">Emotional</data>
+            <data key="weight">12.0</data>
+            <data key="att1">Emotional</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="83" source="13" target="9">
+            <data key="edgelabel">Confrontation</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Confrontation</data>
+            <data key="rawweight">3</data>
+        </edge>
+        <edge id="84" source="8" target="9">
+            <data key="edgelabel">Communication</data>
+            <data key="weight">3.0</data>
+            <data key="att1">Communication</data>
+            <data key="rawweight">3</data>
+        </edge>
+    </graph>
+</graphml>
