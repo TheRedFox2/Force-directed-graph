@@ -9,6 +9,6 @@
 Se puede ver un gráfico de tipo network, concretamente un force-directed-graph, en el que los nodos tienen fuerza y gravedad y se recolocan en función de las interacciones.
 <div>
     <p style="font-size: 12px; color: #666;">
-        Fuente: Datos obtenidos de One Piece Wiki: <a, href=https://onepiece.fandom.com/wiki/One_Piece_Wiki,target="_blank" style="color: #007bff;"> One Piece Wiki</a>
+        Fuente: Datos obtenidos de One Piece Wiki: <a href="https://onepiece.fandom.com/wiki/One_Piece_Wiki" target="_blank" style="color: #007bff;"> One Piece Wiki</a>
     </p>
 </div>
